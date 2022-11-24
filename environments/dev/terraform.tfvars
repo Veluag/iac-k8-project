@@ -1,2 +1,2 @@
 project_id = "vlaa-prod"
-region     = "us-central1"
+region     = "us-east1"
