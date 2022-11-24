@@ -1,2 +1,2 @@
-project_id = "iac-k8-project"
+project_id = "vlaa-dev"
 region     = "us-central1"
