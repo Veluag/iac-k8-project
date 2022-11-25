@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "iac-k8-project"
-    prefix = "env/dev1"
+    bucket = "vlaa-bucket"
+    prefix = "env/dev"
   }
 }
